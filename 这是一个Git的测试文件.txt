@@ -8,3 +8,7 @@ LopeEditLopeEdit is a powerful programmer's
 It has tabs to select between open files,
  supports syntax highlighting of multiple programing languages (C/C++, Java, JavaScript, Visual Basic, VBScript, XML, HTML, ASP, JSP, SQL, Cobol, C#, CSS, Pascal, Perl, PHP), 
 incorporates built-in hexadecimal editor, some util docking windows (File Browser, FTP Browser, Favorites, Projects Manager, Multiple Clipboards, Code Templates Manager, ASCII Table, MS-DOS console), and more...
+
+*******************************************
+继续学习怎么用
+*******************************************
