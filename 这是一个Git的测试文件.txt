@@ -1,0 +1,10 @@
+这是一个测试文件。
+再增加一行有什么变化。
+刚才是未跟踪的。
+LopeEdit
+Powerful text editor and notepad replacement
+LopeEditLopeEdit is a powerful programmer's
+ editor and a replacement of Windows Notepad. 
+It has tabs to select between open files,
+ supports syntax highlighting of multiple programing languages (C/C++, Java, JavaScript, Visual Basic, VBScript, XML, HTML, ASP, JSP, SQL, Cobol, C#, CSS, Pascal, Perl, PHP), 
+incorporates built-in hexadecimal editor, some util docking windows (File Browser, FTP Browser, Favorites, Projects Manager, Multiple Clipboards, Code Templates Manager, ASCII Table, MS-DOS console), and more...
