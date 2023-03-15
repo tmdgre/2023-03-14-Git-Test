@@ -6,3 +6,22 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+
+002
+
+Pushing to tmdgre/2023-03-14-Git-Test
+fatal: 'tmdgre/2023-03-14-Git-Test' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+003
+
+fatal: unable to access 'https://github.com/tmdgre/2023-03-14-Git-Test.git/': Recv failure: Connection was reset
+Pushing to https://github.com/tmdgre/2023-03-14-Git-Test.git
+
+004
+
+From https://github.com/tmdgre/2023-03-14-Git-Test
+ * [new branch]      main       -> 2023-03-14-Git-Test/main
