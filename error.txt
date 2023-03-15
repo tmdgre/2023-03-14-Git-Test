@@ -25,3 +25,16 @@ Pushing to https://github.com/tmdgre/2023-03-14-Git-Test.git
 
 From https://github.com/tmdgre/2023-03-14-Git-Test
  * [new branch]      main       -> 2023-03-14-Git-Test/main
+
+005
+
+POST git-receive-pack (2841 bytes)
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:        
+remote:      https://github.com/tmdgre/2023-03-14-Git-Test/pull/new/master        
+remote: 
+Pushing to https://github.com/tmdgre/2023-03-14-Git-Test.git
+To https://github.com/tmdgre/2023-03-14-Git-Test.git
+ * [new branch]      master -> master
+updating local tracking ref 'refs/remotes/2023-03-14-Git-Test/master'
+
